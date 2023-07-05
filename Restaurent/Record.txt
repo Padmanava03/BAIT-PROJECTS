@@ -1,0 +1,46 @@
+******************************* REPORT 27 Dec, 2022 *******************************
+Customer id: FE20221
+Customer name: Padmanava Biswas
+Customer Phn number: 8100530578
+Customer address: BKP
+----------------------------------------------------------------------
+DISH NAME            NUMBER OF PLATES             RATE          TOTAL
+======================================================================
+VEG THALI                    4                    100            400
+CHILLI PANEER                3                     90             270
+SAHI PANEER                  2                    120            240
+CHICKEN BIRIYANI             2                    230            460
+======================================================================
+GRAND TOTAL                                                      1370
+----------------------------------------------------------------------
+Customer id: FE20222
+Customer name:  Prem Kurmar Oraon
+Customer Phn number: 9852136708
+Customer address: BKP
+----------------------------------------------------------------------
+DISH NAME            NUMBER OF PLATES             RATE          TOTAL
+======================================================================
+HAKKA NOODLES                4                     30             120
+MOTTON BIRIYANI              2                    250            500
+======================================================================
+GRAND TOTAL                                                      620
+----------------------------------------------------------------------
+
+TOTAL INCOME: 1990
+TOTAL INCOME IN WORDS: One Thousand Nine Hundred Ninety 
+******************************* REPORT 27 Dec, 2022 *******************************
+Customer id: FE20221
+Customer name: Padmanava Biswas
+Customer Phn number: 8100530578
+Customer address: bkp
+----------------------------------------------------------------------
+DISH NAME            NUMBER OF PLATES             RATE          TOTAL
+======================================================================
+VEG THALI                    6                    100            600
+CHILLI PANEER                2                     90             180
+======================================================================
+GRAND TOTAL                                                      780
+----------------------------------------------------------------------
+
+TOTAL INCOME: 780
+TOTAL INCOME IN WORDS: Seven Hundred Eighty 
