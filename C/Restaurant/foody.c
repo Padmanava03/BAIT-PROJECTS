@@ -37,7 +37,7 @@ char *single_digit[] = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven
 char *double_digit[] = {"", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
 char *tens_multiple[] = {"", "", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
 char *ten_power[] = {"Hundred", "Thousand", "Lakh"};
-char r[1000], month[1000];
+char r[1000];
 int i, total, j, l, day, year, temp;
 int d1, d2, d3, d4, d5, d6, d7, d8, d9, d10;
 int td1, td2, td3, td4, td5, td6, td7, td8, td9, td10;
